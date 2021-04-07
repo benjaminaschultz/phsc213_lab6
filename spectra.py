@@ -90,7 +90,7 @@ class Atom():
         
 
 
-        max_n = 15
+        max_n = 10
         max_l = max_n - 1
         max_m = max_l * 2 + 1
         ns = np.arange(1, max_n + 1)
